@@ -205,8 +205,6 @@ class MainActivity : ComponentActivity() {
 
         26.228.47.11
 
-        94.41.84.183:2526
-
         192.168.0.88:2525
          */
 
